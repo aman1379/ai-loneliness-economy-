@@ -130,5 +130,6 @@ The next generation of AI systems may not compete solely on intelligence, but on
 
 As synthetic relationships become increasingly normalized, the challenge for policymakers, developers, and societies will not simply be technological advancement — but ensuring that emotional dependency does not become an unregulated commercial infrastructure.
 
+<img width="1536" height="1024" alt="ChatGPT Image May 11, 2026, 12_10_35 AM" src="https://github.com/user-attachments/assets/20c4e914-d39b-4b32-85e7-fdf918942713" />
 
     
