@@ -130,4 +130,5 @@ The next generation of AI systems may not compete solely on intelligence, but on
 
 As synthetic relationships become increasingly normalized, the challenge for policymakers, developers, and societies will not simply be technological advancement — but ensuring that emotional dependency does not become an unregulated commercial infrastructure.
 
+
     
